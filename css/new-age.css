@@ -391,9 +391,10 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   color: white;
   border-color: #fdcc52;
   background-color: #fdcc52;
+  text-decoration: none
 }
 
-.btn {
+.btn1 {
   border-radius: 300px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
@@ -403,4 +404,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+
+.btn{
+
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+.emailForm{
+margin-top: 25px;
 }
